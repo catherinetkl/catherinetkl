@@ -1,5 +1,6 @@
 <h2 align="left">Hi 👋, I'm Catherine</h2>
 <h4 align="left">A tenacious and aspiring data analyst from Singapore</h4>
+<h4 align="left">Recent graduate from Full-time Web Development Bootcamp</h4>
 
 - 🌱 Currently I'm learning **Python, SQL AND Flask**
 
