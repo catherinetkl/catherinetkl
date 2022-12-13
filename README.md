@@ -1,9 +1,9 @@
-<h2 align="center">Hi 👋, I'm Catherine</h2>
-<h4 align="center">A tenacious and aspiring data analyst from Singapore</h4>
+<h2 align="left">Hi 👋, I'm Catherine</h2>
+<h4 align="left">A tenacious and aspiring data analyst from Singapore</h4>
 
-- 🌱 I’m currently learning **Python, SQL AND FLASK**
+- 🌱 Currently I'm learning **Python, SQL AND Flask**
 
-- 👨‍💻 All of my projects are available at CONSTRUCTION IN PROGRESS
+- 👨‍💻 All of my projects are available (Construction in progress)
 
 - ⚡ Fun fact: **I like to listen to Lo-fi songs while working**
 
