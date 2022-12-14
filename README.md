@@ -2,7 +2,7 @@
 <h4 align="left">A tenacious and aspiring data analyst from Singapore. Recent LW bootcamp graduate from Full-time Web Development Programme.</h4>
 
 
-- 🌱 Currently I'm learning **Python, SQL AND Flask**
+- 🌱 Currently I'm learning **Python, SQL and Flask**
 
 - 👨‍💻 All of my projects are available (Construction in progress)
 
